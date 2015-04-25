@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RMIDevicesInterfaces"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RMIGatewayInterfaces"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RMISmartCtrlInterfaces"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RMIBackendDataBaseInterfaces"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

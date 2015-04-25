@@ -1,0 +1,42 @@
+DeviceID	TimeStamp	DeviceType	CurrentStatus
+Machine3	2015-04-09 14:05:31.479	Sensor	Door is Open	
+Machine6	2015-04-09 14:05:40.717	Device	Heater is OFF	
+Machine4	2015-04-09 14:06:13.743	Sensor	User Away from Home	
+Machine4	2015-04-09 14:06:14.743	Sensor	User Away from Home	
+Machine4	2015-04-09 14:06:15.744	Sensor	User Away from Home	
+Machine4	2015-04-09 14:06:16.745	Sensor	User Present in Home	
+Machine4	2015-04-09 14:06:17.746	Sensor	User Present in Home	
+Machine2	2015-04-09 14:06:17.778	Sensor	Motion exists	
+Machine2	2015-04-09 14:06:18.704	Sensor	Motion exists	
+Machine4	2015-04-09 14:06:18.747	Sensor	User Present in Home	
+Machine4	2015-04-09 14:06:19.748	Sensor	User Away from Home	
+Machine2	2015-04-09 14:06:20.705	Sensor	Motion exists	
+Machine4	2015-04-09 14:06:20.749	Sensor	User Away from Home	
+Machine4	2015-04-09 14:06:21.75	Sensor	User Present in Home	
+Machine4	2015-04-09 14:06:22.751	Sensor	User Present in Home	
+Machine2	2015-04-09 14:06:23.709	Sensor	Motion exists	
+Machine4	2015-04-09 14:06:23.752	Sensor	User Present in Home	
+Machine4	2015-04-09 14:06:24.753	Sensor	User Away from Home	
+Machine2	2015-04-09 14:06:25.711	Sensor	Motion exists	
+Machine4	2015-04-09 14:06:25.755	Sensor	User Away from Home	
+Machine4	2015-04-09 14:06:26.755	Sensor	User Away from Home	
+Machine2	2015-04-09 14:06:27.713	Sensor	Motion exists	
+Machine4	2015-04-09 14:06:27.756	Sensor	User Away from Home	
+Machine4	2015-04-09 14:06:28.758	Sensor	User Present in Home	
+Machine2	2015-04-09 14:06:29.715	Sensor	Motion exists	
+Machine4	2015-04-09 14:06:29.758	Sensor	User Away from Home	
+Machine2	2015-04-09 14:06:30.718	Sensor	Motion exists	
+Machine4	2015-04-09 14:06:30.759	Sensor	User Present in Home	
+Machine2	2015-04-09 14:06:31.717	Sensor	Motion exists	
+Machine4	2015-04-09 14:06:31.76	Sensor	User Away from Home	
+Machine4	2015-04-09 14:06:32.761	Sensor	User Present in Home	
+Machine2	2015-04-09 14:06:33.719	Sensor	Motion exists	
+Machine2	2015-04-09 14:06:35.722	Sensor	Motion exists	
+Machine2	2015-04-09 14:06:36.722	Sensor	Motion exists	
+Machine4	2015-04-09 14:28:00.607	Sensor	User Present in Home	
+Machine4	2015-04-10 15:47:31.864	Sensor	User Away from Home	
+Machine4	2015-04-10 15:47:32.864	Sensor	User Away from Home	
+Machine4	2015-04-10 15:47:33.865	Sensor	User Away from Home	
+Machine2	2015-04-10 15:47:34.505	Sensor	Motion exists	
+Machine4	2015-04-10 15:47:34.866	Sensor	User Present in Home	
+Machine2	2015-04-10 15:47:34.984	Sensor	Motion exists	
