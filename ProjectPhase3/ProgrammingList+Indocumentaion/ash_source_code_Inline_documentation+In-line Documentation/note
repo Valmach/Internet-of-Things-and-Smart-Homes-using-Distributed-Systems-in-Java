@@ -1,0 +1,36 @@
+
+
+tasks:
+
+1) replicate the gateway so that there are two replicas (each front-tier replica communicates with its own backend database tier replica). Like before, the system has a number of sensors or smart devices which are NOT replicated. A sensor or a smart device can communicate with either gateway replica.
+
+2) implement a cache in the front-end tier to enhance performance of the gateway. 
+
+3) Implement a simple cache replcaement startegy such as LRU or least frequently used policy to evict cached items when a new item needs to inserted in the cache and the cache is full.
+
+4)extends your cache consistency technique to handle replicated data items in the cache as well as that in the database replicas.
+
+5)  assume that the both tiers of a gateway replicas fail at once and in this case, the other gateway needs to take over the functions of the failed replica. A gateway node needs to dynamically determine the failure of the other replica (this can be done by any method that you choose such as exhanging "I am alive" heartbeat messages).
+Upon detecting a failure, the remaining gateway replica implements a failure recovery algorithm thay involves taking over the responsibility of servicing all sensors and devices that were communicating with the failed replica. 
+
+
+
+
+
+problems:
+
+choose it dynamically at startup time to balance the load. how to choose it dynamically?
+
+
+ choose any connsistency mechanism
+ also discuss the consistency semantics provided by your chosen approach.
+
+
+Design:
+
+at startup, when sensors/devices starts up, it read gateway ip and send to gateway register, 
+by register, gateway know how many sensors/devices are existed in the system!
+
+
+
+
