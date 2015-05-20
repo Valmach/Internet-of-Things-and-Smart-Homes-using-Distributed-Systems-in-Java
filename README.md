@@ -21,8 +21,12 @@ The files mentioned above as Project_Report_Phase_1.pdf and Project_Report_Phase
 # Source code, Test Scripts, Executable Jars , Maven build, Test cases 
 
 The Folders Project_phase_1 and Project_phase_2 
+
 1) Source Code
+
 2) Executable Jars and Executable bash Script to test the Jars
+
 3) Maven Build
+
 4) Test Cases and Screen shots of expected results
 
