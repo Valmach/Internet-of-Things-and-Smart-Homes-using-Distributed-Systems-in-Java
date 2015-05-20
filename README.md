@@ -20,7 +20,7 @@ The files mentioned above as Project_Report_Phase_1.pdf and Project_Report_Phase
 
 # Source code, Test Scripts, Executable Jars , Maven build, Test cases 
 
-The Folders Project_phase_1 and Project_phase_2 
+The Folders Project_phase_1 and Project_phase_2 contains the following
 
 1) Source Code
 
